@@ -7,6 +7,11 @@
 * attributes, methods
 * constructors
 
+### Second
+* access modifiers (public, private, protected)
+* Main() function
+* ToString() method
+* primitive vs. reference data-types
 ___
 ## Projects
 
