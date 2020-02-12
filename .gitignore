@@ -1,0 +1,12 @@
+*.class
+*.log
+
+# Package Files #
+*.jar
+*.zip
+*.tar.zip
+*.rar
+
+# IntelliJ Idea
+.idea
+*.iml
