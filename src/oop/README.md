@@ -25,7 +25,7 @@ Create class Car\
     > $name ($wheels,$doors,$color) $state speed $speed km/h\
     Audi (4,3,black) go speed 110 km/h
 * start()
-    * set state = "got"
+    * set state = "go"
     * set speed = 10
 * stop()
     * set state = "stopped"
