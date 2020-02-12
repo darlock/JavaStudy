@@ -43,10 +43,10 @@ Create class Car\
     * state = "stopped"
     * speed = 0
     * all other attributes
- –––
+ ___
  ### Second
- Create class with same behaviour as Prompt in Javascript
- Create class JSPrompt
+ Create class with same behaviour as _Prompt in Javascript_\
+ Create class _JSPrompt_\
  **2 Attributes:**
  * sc (Scanner type)
  * input (String type)
