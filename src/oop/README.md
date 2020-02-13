@@ -69,3 +69,25 @@ Create class Car\
  * lastInput
     * return last user input
  
+ ___
+ ### Third
+ Create class _Calc_ with function as calculator\
+ Use **getters and setters** to set attributes
+ Use **access modifiers**
+ * private for all attributes
+ * public for all methods
+ 
+ **3 Attributes:**
+ * a
+ * b
+ * r
+ 
+ **Constructor**
+ * standard 2 constructors
+ 
+ **3 methods:**
+ * squarePerimeter()
+ * squareArea()
+ * circlePerimeter()
+ * circleArea()
+ 
